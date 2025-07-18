@@ -1,6 +1,6 @@
 #cheking if a number is greater or smaller
 first_number = float(input("Enter the first number: "))
-second_number = float(input("Enter the second number: "))
+second_number = 15
 if first_number > second_number:
     print(f"{first_number} is greater than {second_number}")
 elif first_number < second_number:
